@@ -121,16 +121,18 @@ $( document ).ready(function() {
 	
 	//make anchor tags scroll
 	$('.navbar a').click(function(){
-		if($('body').hasClass('home') && $(this).attr('href')) {
-			el = $.attr(this, 'href').replace('/','');
-		    $('html, body').animate({
-		        scrollTop: ($( el ).offset().top - 132)
-		    }, 500);
-		    if($('.navmenu.offcanvas').hasClass('in')) $('.navbar-toggle').click();
-		    return false;
-		}
-		else if (!$('body').hasClass('home')) {
-			if($(this).attr('href').charAt(0)!='/') $(this).attr('href', '/'+$(this).attr('href'));
+		if(!$(this).parent().hasClass('absright')) {
+    		if($('body').hasClass('home') && $(this).attr('href')) {
+    			el = $.attr(this, 'href').replace('/','');
+    		    $('html, body').animate({
+    		        scrollTop: ($( el ).offset().top - 132)
+    		    }, 500);
+    		    if($('.navmenu.offcanvas').hasClass('in')) $('.navbar-toggle').click();
+    		    return false;
+    		}
+    		else if (!$('body').hasClass('home')) {
+    			if($(this).attr('href').charAt(0)!='/') $(this).attr('href', '/'+$(this).attr('href'));
+    		}
 		}
 	});
 
