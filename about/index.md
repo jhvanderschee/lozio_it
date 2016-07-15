@@ -2,8 +2,11 @@
 title: About us
 ---
 
-At l’Ozio you can enjoy North Italian cuisine. All meals are prepared in our own kitchen by our Italian chefs: from starters to mains, from pasta to dessert, all daily fresh handmade. We want to introduce you to the different flavors Italy has to offer with our food as well as with our wines. That is why we only use the best products from Italy and The Netherlands. For the true Italian experience we organize every evening an Aperitivo. 
 
-Ozio is derived from the Latin word ‘Otium’. Otium refers to leisure time in which a person enjoys eating, playing, resting, contemplation and academic endeavors. Oziare, the Italian verb, means to be free. Oziare means to have fun, pleasure, enjoying yourself. 
+**Ozio** deriva dal latino **OTIUM**,&nbsp; indica l’occupazione di natura prevalentemente intellettuale. **Oziare** significa essere liberi, **Oziare** significa divertimento, piacere, gioia.
 
-We want to be lovers of idleness, Ozio, “dolce far niente”, with the freedom to choose a good wine that takes you to a foreign country, under unknown sun with a breeze of wind stroking your face. The freedom to choose a tasty dish that explodes in your mouth that makes you dream of green hills, snowy mountains and deep seas. Our goal is to create a place where you can lounge, drink, eat, in other words, a place where you can take time for YOU.
+Noi vogliamo essere dei cultori dell’ozio, con la liberta’ di scegliere un buon vino, che ci trasporti in paesi lontani, sotto soli sconosciuti con la brezza del vento che ci accarezza il viso.
+
+&nbsp;La liberta’ di scegliere un piatto gustoso che esplodendo in&nbsp; bocca ci faccia sognare colline verdi, montagne innevate e mari profondi.
+
+Questa e’ stata la nostra scelta, creare un angolo in cui voi possiate **oziare**, bere, mangiare, prendere il tempo per VOI.
