@@ -57,6 +57,19 @@ $(window).resize(function(){
 });
 
 $( document ).ready(function() {
+    $('a').each(function() {
+       if(!$(this).parent().hasClass('absright')) {
+           var a = new RegExp('/' + window.location.host + '/');
+           if(!a.test(this.href)) {
+               $(this).click(function(event) {
+                   event.preventDefault();
+                   event.stopPropagation();
+                   window.open(this.href, '_blank');
+               });
+           }
+       }
+    });
+    
 	if($(window).height()<500) {
 		$('body').addClass('low_height');
 	}
