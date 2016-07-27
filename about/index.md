@@ -3,6 +3,8 @@ title: About us
 ---
 
 
+MAx
+
 All’Ozio serviamo piatti moderni ispirati alla tradizione del nord Italia. Dagli antipasti alle paste fresche fino ai dessert tutto &egrave; creato ‘in casa’ dalle mani dei nostri cuochi italiani.
 
 Scegliamo i migliori ingredienti italiani e olandesi per offrirvi il sapore della vera cucina italiana, ed ogni giorno siamo felici di invitarvi all’ aperitivo dove sarete proiettati nella ‘’dolce vita’’ dell’ ozio.
