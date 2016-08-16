@@ -17,5 +17,4 @@ images:
   - image: /img/dolci.jpg
   - image: /img/l´ozio from front.jpg
   - image: /img/wine closet.jpg
-  - image: /img/wines.jpg
 ---
