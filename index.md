@@ -5,15 +5,17 @@ slider:
   - image: /img/food.jpg
   - image: /img/interior.jpg
 images:
-  - image: /img/dsc_0030.jpg
-  - image: /img/dsc_0056.jpg
-  - image: /img/dsc_0101.jpg
-  - image: /img/dsc_0042.jpg
-  - image: /img/img_9597.jpg
-  - image: /img/img_9571.jpg
-  - image: /img/dsc_0017 (2).jpg
-  - image: /img/dsc_0109.jpg
-  - image: /img/img_9500.jpg
-  - image: /uploads/dsc-0006.jpg
-  - image: /img/dsc_0043.jpg
+  - image: /img/carlo pasta.jpg
+  - image: /img/culaccia.jpg
+  - image: /img/casoncello magro.jpg
+  - image: /img/negroni.jpg
+  - image: /img/l´ozio from back.jpg
+  - image: /img/casoncelli nero.jpg
+  - image: /img/degustazione salumi.jpg
+  - image: /img/l´ozio outside.jpg
+  - image: /img/making casconcelli.jpg
+  - image: /img/dolci.jpg
+  - image: /img/l´ozio from front.jpg
+  - image: /img/wine closet.jpg
+  - image: /img/wines.jpg
 ---
