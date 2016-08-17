@@ -5,7 +5,7 @@ slider:
   - image: /img/food.jpg
   - image: /img/interior.jpg
 images:
-  - image: /carlopasta.jpg
+  - image: /img/carlo pasta.jpg
   - image: /img/culaccia.jpg
   - image: /img/casoncello magro.jpg
   - image: /img/negroni.jpg
