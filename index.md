@@ -5,7 +5,7 @@ slider:
   - image: /img/food.jpg
   - image: /img/interior.jpg
 images:
-  - image: /carlo pasta.jpg
+  - image: /carlopasta.jpg
   - image: /img/culaccia.jpg
   - image: /img/casoncello magro.jpg
   - image: /img/negroni.jpg
@@ -18,3 +18,5 @@ images:
   - image: /img/l´ozio from front.jpg
   - image: /img/wine closet.jpg
 ---
+
+
